@@ -1,0 +1,14 @@
+{
+    "users" : [
+        {
+            "email":"aremuoluwagbamila@gmail.com",
+            "fullname":"Aremu Oluwagbamila",
+            "username":"aremu_smog",
+            "password":"2fb1cdac6af9558f0933e495b80877ac",
+            "subscription":{
+                "status":"trial",
+                "package":"standard"
+            }
+        }
+    ]
+}
