@@ -1,6 +1,7 @@
 {
     "users" : [
         {
+            "id":1,
             "email":"aremuoluwagbamila@gmail.com",
             "fullname":"Aremu Oluwagbamila",
             "username":"aremu_smog",
